@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenshiangelina" alt="tenshiangelina" /></a> </p>
 
-- 🔭 I’m currently working on **Resumate**
+- 🔭 I’m currently working on **Weather app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **improving my React skills**
+- 🤝 I’m looking for help with **understanding props in ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-theta-wheat-49.vercel.app/](https://portfolio-theta-wheat-49.vercel.app/)
 
