@@ -13,13 +13,13 @@
 
 - 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-wheat-49.vercel.app/](https://portfolio-theta-wheat-49.vercel.app/)
+- 👨‍💻 All of my projects are available at my **[portfolio](https://portfolio-theta-wheat-49.vercel.app/)**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **angelina.hcortes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IRg3AVHVsat8linbqB5xO-Zc6E-xo7W-/view?usp=sharing](https://drive.google.com/file/d/1IRg3AVHVsat8linbqB5xO-Zc6E-xo7W-/view?usp=sharing)
+- 📄 Know about my experiences at my **[resume](https://drive.google.com/file/d/1IRg3AVHVsat8linbqB5xO-Zc6E-xo7W-/view?usp=sharing)**
 
 - ⚡ Fun fact **I love learning languages and thrive in multicultural experiences**
 
