@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Weather app**
 
-- 🌱 I’m currently learning **ReactJS + Vite**
+- 🌱 I’m currently learning **ReactJS + Vite** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://vitejs.dev/logo.svg" alt="react" width="20" height="20"/>
 
 - 🤝 I’m looking for help with **understanding props in ReactJS**
 
-- 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+- 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-theta-wheat-49.vercel.app/](https://portfolio-theta-wheat-49.vercel.app/)
 
