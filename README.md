@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelina</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenshiangelina&label=Profile%20views&color=0e75b6&style=flat" alt="tenshiangelina" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS + Vite** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://vitejs.dev/logo.svg" alt="react" width="20" height="20"/>
 
-- 🤝 I’m looking for help with **understanding props in ReactJS**
+- 🤝 I’m looking for help with **understanding props in ReactJS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 
 - 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 
