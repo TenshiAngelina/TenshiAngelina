@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenshiangelina" alt="tenshiangelina" /></a> </p>
 
-- 🔭 I’m currently working on **Weather app**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **ReactJS + Vite** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://vitejs.dev/logo.svg" alt="react" width="20" height="20"/>
 
