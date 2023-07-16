@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenshiangelina" alt="tenshiangelina" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Resume generator job board**
 
 - 🌱 I’m currently learning **ReactJS + Vite** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://vitejs.dev/logo.svg" alt="react" width="20" height="20"/>
 
@@ -13,7 +13,7 @@
 
 - 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 
-- 👨‍💻 All of my projects are available at my **[portfolio](https://portfolio-theta-wheat-49.vercel.app/)**
+- 👨‍💻 All of my projects are available at my **[portfolio](https://www.angelinacortes.dev)**
 
 - 💬 Ask me about **JavaScript**
 
