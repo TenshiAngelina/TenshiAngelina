@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **angelina.hcortes@gmail.com**
 
-- 📄 Know about my experiences at my **[resume](https://drive.google.com/file/d/1IRg3AVHVsat8linbqB5xO-Zc6E-xo7W-/view?usp=sharing)**
+- 📄 Know about my experience at my **[resume](https://drive.google.com/file/d/1IRg3AVHVsat8linbqB5xO-Zc6E-xo7W-/view?usp=sharing)**
 
 - ⚡ Fun fact **I love learning languages and thrive in multicultural experiences**
 
