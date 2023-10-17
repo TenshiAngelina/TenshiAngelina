@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **ReactJS + Vite** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://vitejs.dev/logo.svg" alt="react" width="20" height="20"/>
 
-- 🤝 I’m looking for help with **Hooks in ReactJS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+- 🤝 I’m looking for help with **ReactJS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 
-- 🌸 My next adventure **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+- 🌸 My next adventure **React Native** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 
 - 👨‍💻 All of my projects are available at my **[portfolio](https://www.angelinacortes.dev)**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/angelinahcortes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelinahcortes" height="30" width="40" /></a>
+<a href="https://twitter.com/angelinahcortes" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://reactnative.dev/img/header_logo.svg" alt="reactnative)" alt="angelinahcortes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angelinahuertacortes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelinahuertacortes" height="30" width="40" /></a>
 </p>
 
